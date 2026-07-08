@@ -7,8 +7,6 @@
 }
 
 .outOfStockClass {
-  background-color: #ffe6e6;
-  border: 2px solid #ff4d4d;
-  color: #777;
-  opacity: 0.7;
+  opacity: 0.5;
+  text-decoration: line-through;
 }
